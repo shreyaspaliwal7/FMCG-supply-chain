@@ -118,7 +118,7 @@ fmcg-supply-chain/
 ### 1. Environment Setup
 
 ```bash
-git clone https://github.com/your-username/fmcg-supply-chain.git
+git clone https://github.com/shreyaspaliwal7/FMCG-supply-chain.git
 cd fmcg-supply-chain
 pip install -r requirements.txt
 ```
